@@ -11,7 +11,7 @@ public class AboutMySelf {
 		String pet;
 		String song;
 		String brand;
-
+        last name = "T";
 		name = "Jay";
 		from = "Thailand";
 		pet = "cat and dog";
